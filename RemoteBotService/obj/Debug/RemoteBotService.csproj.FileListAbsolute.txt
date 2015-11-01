@@ -1,0 +1,50 @@
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\RemoteBotService.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\RemoteBotService.pdb
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\MjpegProcessor.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\MjpegProcessor.pdb
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\obj\Debug\RemoteBotService.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\obj\Debug\RemoteBotService.pdb
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\obj\Debug\RemoteBotService.csprojResolveAssemblyReference.cache
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Ninject.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Ninject.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Nuclex.Input.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Nuclex.Input.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\SlimDX.DirectInput.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\SlimDX.DirectInput.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Documents\Yannick\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\RemoteBotService.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\RemoteBotService.pdb
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\MjpegProcessor.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Ninject.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Nuclex.Input.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\SlimDX.DirectInput.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\MjpegProcessor.pdb
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Ninject.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Nuclex.Input.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\SlimDX.DirectInput.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\obj\Debug\RemoteBotService.csprojResolveAssemblyReference.cache
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\obj\Debug\RemoteBotService.dll
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\RemoteBotService\obj\Debug\RemoteBotService.pdb

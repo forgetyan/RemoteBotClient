@@ -1,0 +1,2 @@
+D:\Documents\Yannick\Projets\XnaRemoteBot\XnaRemoteBot\XnaRemoteBotContent\obj\x86\Debug\XnaRemoteBotContent.contentprojResolveAssemblyReference.cache
+D:\Documents\Yannick\Google Drive\Projets\XnaRemoteBot\XnaRemoteBot\XnaRemoteBotContent\obj\x86\Debug\XnaRemoteBotContent.contentprojResolveAssemblyReference.cache
